@@ -1,0 +1,8 @@
+{
+  "name": "Signature Dine - Restaurant in Guntur",
+  "description": "Signature Dine Restaurant in 3rd Line Guntur. Renowned for authentic Dum Biryani, coastal spiced prawns, calm family dining ambiance, and exceptional hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
